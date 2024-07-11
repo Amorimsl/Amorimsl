@@ -5,7 +5,8 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 ## 🚀 My Skill Set
 
 <br/>
-[MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
+![image](https://github.com/Amorimsl/Amorimsl/assets/136852249/306e5064-0868-46a0-af17-2535b59dd268)
+
 
 
 
@@ -91,11 +92,7 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 
 
 
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 ## 📊 Níveis de Proficiência
-# Meu Perfil
 
 ## Habilidades em Tecnologias
 
