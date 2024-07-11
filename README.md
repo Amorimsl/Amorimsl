@@ -59,15 +59,24 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 
 ## Habilidades em Tecnologias
 
-- TypeScript: ![TypeScript](https://img.shields.io/badge/90%25-green?style=flat-square&logo=typescript&labelColor=007ACC)
-- React: ![React](https://img.shields.io/badge/85%25-blue?style=flat-square&logo=react&labelColor=61DAFB)
-- TailwindCSS: ![TailwindCSS](https://img.shields.io/badge/75%25-38B2AC?style=flat-square&logo=tailwind-css&labelColor=38B2AC)
-- Node.js: ![Node.js](https://img.shields.io/badge/70%25-43853D?style=flat-square&logo=node.js&labelColor=43853D)
-- Jest: ![Jest](https://img.shields.io/badge/60%25-C21325?style=flat-square&logo=jest&labelColor=C21325)
-- JavaScript: ![JavaScript](https://img.shields.io/badge/95%25-F7DF1E?style=flat-square&logo=javascript&labelColor=F7DF1E)
-- CSS3: ![CSS3](https://img.shields.io/badge/80%25-1572B6?style=flat-square&logo=css3&labelColor=1572B6)
-- HTML5: ![HTML5](https://img.shields.io/badge/90%25-E34F26?style=flat-square&logo=html5&labelColor=E34F26)
-- Oracle: ![Oracle](https://img.shields.io/badge/50%25-F80000?style=flat-square&logo=oracle&labelColor=F80000)
+| Tecnologia   | Proficiência |
+|--------------|--------------|
+| TypeScript   | ![TypeScript](https://img.shields.io/badge/90%25-green?style=flat-square&logo=typescript&labelColor=007ACC) |
+| React        | ![React](https://img.shields.io/badge/85%25-blue?style=flat-square&logo=react&labelColor=61DAFB) |
+| TailwindCSS  | ![TailwindCSS](https://img.shields.io/badge/75%25-38B2AC?style=flat-square&logo=tailwind-css&labelColor=38B2AC) |
+| Node.js      | ![Node.js](https://img.shields.io/badge/70%25-43853D?style=flat-square&logo=node.js&labelColor=43853D) |
+
+| Tecnologia   | Proficiência |
+|--------------|--------------|
+| Jest         | ![Jest](https://img.shields.io/badge/60%25-C21325?style=flat-square&logo=jest&labelColor=C21325) |
+| JavaScript   | ![JavaScript](https://img.shields.io/badge/95%25-F7DF1E?style=flat-square&logo=javascript&labelColor=F7DF1E) |
+| CSS3         | ![CSS3](https://img.shields.io/badge/80%25-1572B6?style=flat-square&logo=css3&labelColor=1572B6) |
+| HTML5        | ![HTML5](https://img.shields.io/badge/90%25-E34F26?style=flat-square&logo=html5&labelColor=E34F26) |
+
+| Tecnologia   | Proficiência |
+|--------------|--------------|
+| Oracle       | ![Oracle](https://img.shields.io/badge/50%25-F80000?style=flat-square&logo=oracle&labelColor=F80000) |
+
 
 
 
