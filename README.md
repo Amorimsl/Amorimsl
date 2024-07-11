@@ -5,7 +5,7 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 ## 🚀 My Skill Set
 
 <br/>
-![image](https://github.com/Amorimsl/Amorimsl/assets/136852249/306e5064-0868-46a0-af17-2535b59dd268)
+https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif
 
 
 
