@@ -4,7 +4,7 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 
 ## 🚀 My Skill Set
 
-<div>
+<div align="center">
   <span style="margin: 15px;">
     <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
       <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
@@ -56,8 +56,61 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 
 ## 📊 Níveis de Proficiência
 
-Aqui está uma representação gráfica dos meus níveis de proficiência em cada tecnologia mencionada:
-
-![Gráfico de Proficiência](https://github.com/Amorimsl/Amorimsl/assets/136852249/4d4bf41a-bcef-485b-843e-e47fcc4b4e7c)
+<div align="center">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <strong>TypeScript:</strong>
+    <div style="flex: 1; background-color: #ddd; margin-left: 10px;">
+      <div style="width: 90%; background-color: #007acc; padding: 5px 0; color: white; text-align: center;">90%</div>
+    </div>
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <strong>React:</strong>
+    <div style="flex: 1; background-color: #ddd; margin-left: 10px;">
+      <div style="width: 85%; background-color: #61dafb; padding: 5px 0; color: black; text-align: center;">85%</div>
+    </div>
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <strong>TailwindCSS:</strong>
+    <div style="flex: 1; background-color: #ddd; margin-left: 10px;">
+      <div style="width: 75%; background-color: #38bdf8; padding: 5px 0; color: white; text-align: center;">75%</div>
+    </div>
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <strong>Node.js:</strong>
+    <div style="flex: 1; background-color: #ddd; margin-left: 10px;">
+      <div style="width: 70%; background-color: #339933; padding: 5px 0; color: white; text-align: center;">70%</div>
+    </div>
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <strong>Jest:</strong>
+    <div style="flex: 1; background-color: #ddd; margin-left: 10px;">
+      <div style="width: 60%; background-color: #c21325; padding: 5px 0; color: white; text-align: center;">60%</div>
+    </div>
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <strong>JavaScript:</strong>
+    <div style="flex: 1; background-color: #ddd; margin-left: 10px;">
+      <div style="width: 95%; background-color: #f0db4f; padding: 5px 0; color: black; text-align: center;">95%</div>
+    </div>
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <strong>CSS3:</strong>
+    <div style="flex: 1; background-color: #ddd; margin-left: 10px;">
+      <div style="width: 80%; background-color: #264de4; padding: 5px 0; color: white; text-align: center;">80%</div>
+    </div>
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <strong>HTML5:</strong>
+    <div style="flex: 1; background-color: #ddd; margin-left: 10px;">
+      <div style="width: 90%; background-color: #e34c26; padding: 5px 0; color: white; text-align: center;">90%</div>
+    </div>
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <strong>Oracle:</strong>
+    <div style="flex: 1; background-color: #ddd; margin-left: 10px;">
+      <div style="width: 50%; background-color: #f80000; padding: 5px 0; color: white; text-align: center;">50%</div>
+    </div>
+  </div>
+</div>
 
 
