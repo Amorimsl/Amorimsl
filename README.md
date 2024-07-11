@@ -11,7 +11,7 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 
 
 
-<img align="right" alt="Data Science" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif](https://i.gifer.com/EgUx.gif" >
+<img align="right" alt="Data Science" width="300" src="https://i.gifer.com/EgUx.gif">
 
 - ✨ Creating bugs since ... **2023 (my coding journey began)**
 - 🌱 I’m currently learning **Data Science, an interdisciplinary and rapidly growing field that involves data preprocessing, exploratory data analysis, statistical inference, machine learning, deep learning, data mining, big data analytics, data visualization, data storage solutions, cloud computing, and ethical considerations, all designed to turn raw data into actionable insights and informed decisions.**
