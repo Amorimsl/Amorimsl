@@ -59,10 +59,10 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 
 ## Habilidades em Tecnologias
 
-<div style="display: flex">
+<div style="display: flex; flex-wrap: wrap;">
   
-
-  <div>
+  <!-- Tabela 1 -->
+  <div style="flex: 1; margin-right: 10px;">
   
   | Tecnologia   | Proficiência |
   |--------------|--------------|
@@ -73,8 +73,8 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
   
   </div>
   
-
-  <div>
+  <!-- Tabela 2 -->
+  <div style="flex: 1;">
   
   | Tecnologia   | Proficiência |
   |--------------|--------------|
