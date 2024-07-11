@@ -11,7 +11,7 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 
 
 
-<img align="right" alt="Data Science" width="300" height="280" src="https://i.pinimg.com/originals/01/f2/b5/01f2b5343d905ce6810cdbf2c40a7931.gif">
+<img align="right" alt="Data Science" width="350" src="https://i.pinimg.com/originals/01/f2/b5/01f2b5343d905ce6810cdbf2c40a7931.gif">
 
 - ✨ Creating pages ... **2021 (my coding journey began)**
 - 🌱 I'm currently improving **next, react, typescript, and tailwind**
@@ -20,6 +20,7 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 - 🎲 Fun fact: ... **The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes.**
 - 🐧 I like exploring **Performance Optimization**
 - 📫 How to reach me **lucasamorim_10_@hotmail.com**
+
 
 
 ## Connect with me  
