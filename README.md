@@ -5,10 +5,10 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 ## 🚀 My Skill Set
 
 <div >
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
+  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"  style="margin: 15px;">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
   </a>  
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://www.w3schools.com/css/" target="_blank"  style="margin: 15px;">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
   </a>  
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
