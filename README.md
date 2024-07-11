@@ -90,6 +90,9 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
 </div>
 
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Amorimsl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
