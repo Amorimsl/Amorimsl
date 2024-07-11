@@ -10,7 +10,7 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 
 
 
-<div>
+
   <img align="right" alt="Data Science" width="300" src="https://i.pinimg.com/originals/01/f2/b5/01f2b5343d905ce6810cdbf2c40a7931.gif">
   - ✨ Creating pages ... **2021 (my coding journey began)**
   - 🌱 I'm currently improving** next ,react, typescript and tailwind**
@@ -20,7 +20,7 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
   - 🐧  I like exploring **Performance Optimization**
   - 📫 How to reach me **lucasamorim_10_@hotmail.com**
 
-</div>
+
 
 ## Connect with me  
 <div align="left">
