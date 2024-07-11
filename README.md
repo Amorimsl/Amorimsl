@@ -4,7 +4,37 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 
 ## 🚀 My Skill Set
 
-<div >
+<br/>
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
+
+
+
+<img align="right" alt="Data Science" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" >
+
+- ✨ Creating bugs since ... **2023 (my coding journey began)**
+- 🌱 I’m currently learning **Data Science, an interdisciplinary and rapidly growing field that involves data preprocessing, exploratory data analysis, statistical inference, machine learning, deep learning, data mining, big data analytics, data visualization, data storage solutions, cloud computing, and ethical considerations, all designed to turn raw data into actionable insights and informed decisions.**
+- 🎯 Goals: ... **Build a time series forecasting model to predict stock prices or cryptocurrency values using historical market data and advanced machine learning algorithms.**
+- 💬 Ask me about **Data Science, Machine Learning, Python**
+- 🎲 Fun fact: ... **The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes.**
+- 🐧  I like exploring **Crypto Currency**
+- 📫 How to reach me **alexchandarjoshva@gmail.com**
+- 🔗 Visit my Data Science Portfolio **https://www.datascienceportfol.io/alexcj**
+
+## Connect with me  
+<div align="left">
+<a href="https://github.com/Amorimsl" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/lucasamorim456" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+<h3 align="left">Languages :</h3>
+<div align="left">
   <span style="margin: 15px;">
     <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
       <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
@@ -52,7 +82,17 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
   </span>
 </div>
 
-<br/>
+###
+
+<h3 align="left">Tools :</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
+</div>
+
+
+
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ## 📊 Níveis de Proficiência
 # Meu Perfil
