@@ -11,13 +11,8 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 
 
 
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" alt="Exemplo de GIF">
 
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
 <br />
 
 - ✨ Creating pages ... **2021 (my coding journey began)**
