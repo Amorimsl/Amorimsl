@@ -112,6 +112,8 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 <br/>  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amorimsl&show_icons=true&theme=radical)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 ## 📊 Níveis de Proficiência
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amorimsl&layout=compact)](https://github.com/Amorimsl/github-readme-stats)
