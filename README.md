@@ -21,4 +21,9 @@ Aqui estão as principais tecnologias que utilizei neste projeto:
 Aqui está uma representação gráfica dos meus níveis de proficiência em cada tecnologia mencionada:
 
 
-    ![proficiency_chart](https://github.com/Amorimsl/Amorimsl/assets/136852249/d2b795c5-2936-4534-a717-a254f5a86f17)
+![proficiency_chart](https://github.com/Amorimsl/Amorimsl/assets/136852249/4d4bf41a-bcef-485b-843e-e47fcc4b4e7c)
+![compass](https://github.com/Amorimsl/Amorimsl/assets/136852249/227839fd-3c15-4241-9ad3-3469325e4d33)
+
+
+https://github.com/Amorimsl/Amorimsl/assets/136852249/c3ab7719-f4ea-4f9d-864b-57c9e6a8457b
+
