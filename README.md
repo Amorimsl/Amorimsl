@@ -107,9 +107,10 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 </picture>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Amorimsl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div><img src="https://github-readme-stats.vercel.app/api?username=Amorimsl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Amorimsl&show_icons=true&theme=dracula)
 
 ## 📊 Níveis de Proficiência
 
