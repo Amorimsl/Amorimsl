@@ -1,7 +1,11 @@
-#
 
 
-Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e eficiente.
+
+<img src="https://github.com/Amorimsl/Amorimsl/assets/136852249/89039cbc-cecf-4650-a80a-50b03a6f4b66" width="1280" >
+
+
+# 👋 Always seeking to learn and apply best development practices
+
 <br/>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" alt="Exemplo de GIF">
 
