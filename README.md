@@ -22,7 +22,7 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
   - 📫 How to reach me **lucasamorim_10_@hotmail.com**
 
 
-# Connect with me  
+## Connect with me  
 <div align="left">
 <a href="https://github.com/Amorimsl" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
