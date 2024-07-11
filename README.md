@@ -13,14 +13,13 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 
 <img align="right" alt="Data Science" width="300" src="https://i.pinimg.com/originals/01/f2/b5/01f2b5343d905ce6810cdbf2c40a7931.gif">
 
-- ✨ Creating bugs since ... **2023 (my coding journey began)**
-- 🌱 I’m currently learning **Data Science, an interdisciplinary and rapidly growing field that involves data preprocessing, exploratory data analysis, statistical inference, machine learning, deep learning, data mining, big data analytics, data visualization, data storage solutions, cloud computing, and ethical considerations, all designed to turn raw data into actionable insights and informed decisions.**
-- 🎯 Goals: ... **Build a time series forecasting model to predict stock prices or cryptocurrency values using historical market data and advanced machine learning algorithms.**
-- 💬 Ask me about **Data Science, Machine Learning, Python**
+- ✨ Creating pages ... **2021 (my coding journey began)**
+- 🌱 I'm currently improving** next ,react, typescript and tailwind**
+- 🎯 Goals: ... **Create the best website with the best quality and speed on the market.**
+- 💬 Ask me about **React ,next e typeScript**
 - 🎲 Fun fact: ... **The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes.**
-- 🐧  I like exploring **Crypto Currency**
-- 📫 How to reach me **alexchandarjoshva@gmail.com**
-- 🔗 Visit my Data Science Portfolio **https://www.datascienceportfol.io/alexcj**
+- 🐧  I like exploring **Performance Optimization**
+- 📫 How to reach me **lucasamorim_10_@hotmail.com**
 
 ## Connect with me  
 <div align="left">
