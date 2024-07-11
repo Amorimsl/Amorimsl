@@ -20,11 +20,8 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
   - 🎲 Fun fact: ... **The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes.**
   - 🐧  I like exploring **Performance Optimization**
   - 📫 How to reach me **lucasamorim_10_@hotmail.com**
-
-
-
-
-
+<br/>
+<br/>
 ## Connect with me  
 <div align="left">
 <a href="https://github.com/Amorimsl" target="_blank">
