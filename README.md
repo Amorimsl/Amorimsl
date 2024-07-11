@@ -59,7 +59,7 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 
 ## Habilidades em Tecnologias
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex">
   
 
   <div>
