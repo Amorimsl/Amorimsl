@@ -55,37 +55,19 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 <br/>
 
 ## 📊 Níveis de Proficiência
-
 # Meu Perfil
 
 ## Habilidades em Tecnologias
 
-### TypeScript
-![TypeScript](https://img.shields.io/badge/TypeScript-90%25-green?logo=typescript&style=for-the-badge)
-
-### React
-![React](https://img.shields.io/badge/React-85%25-blue?logo=react&style=for-the-badge)
-
-### TailwindCSS
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-75%25-38B2AC?logo=tailwind-css&style=for-the-badge)
-
-### Node.js
-![Node.js](https://img.shields.io/badge/Node.js-70%25-43853D?logo=node.js&style=for-the-badge)
-
-### Jest
-![Jest](https://img.shields.io/badge/Jest-60%25-C21325?logo=jest&style=for-the-badge)
-
-### JavaScript
-![JavaScript](https://img.shields.io/badge/JavaScript-95%25-F7DF1E?logo=javascript&style=for-the-badge)
-
-### CSS3
-![CSS3](https://img.shields.io/badge/CSS3-80%25-1572B6?logo=css3&style=for-the-badge)
-
-### HTML5
-![HTML5](https://img.shields.io/badge/HTML5-90%25-E34F26?logo=html5&style=for-the-badge)
-
-### Oracle
-![Oracle](https://img.shields.io/badge/Oracle-50%25-F80000?logo=oracle&style=for-the-badge)
-
-
+| Tecnologia   | Proficiência |
+|--------------|--------------|
+| TypeScript   | ![TypeScript](https://img.shields.io/badge/90%25-green?logo=typescript&style=for-the-badge) |
+| React        | ![React](https://img.shields.io/badge/85%25-blue?logo=react&style=for-the-badge) |
+| TailwindCSS  | ![TailwindCSS](https://img.shields.io/badge/75%25-38B2AC?logo=tailwind-css&style=for-the-badge) |
+| Node.js      | ![Node.js](https://img.shields.io/badge/70%25-43853D?logo=node.js&style=for-the-badge) |
+| Jest         | ![Jest](https://img.shields.io/badge/60%25-C21325?logo=jest&style=for-the-badge) |
+| JavaScript   | ![JavaScript](https://img.shields.io/badge/95%25-F7DF1E?logo=javascript&style=for-the-badge) |
+| CSS3         | ![CSS3](https://img.shields.io/badge/80%25-1572B6?logo=css3&style=for-the-badge) |
+| HTML5        | ![HTML5](https://img.shields.io/badge/90%25-E34F26?logo=html5&style=for-the-badge) |
+| Oracle       | ![Oracle](https://img.shields.io/badge/50%25-F80000?logo=oracle&style=for-the-badge) |
 
