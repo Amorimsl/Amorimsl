@@ -113,8 +113,6 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 
 ## 📊 Níveis de Proficiência
 
-## Habilidades em Tecnologias
-
 | Coluna 1                                     |                                     Coluna 2                                   |
 |----------------------------------------------|--------------------------------------------|
 | - TypeScript: ![TypeScript](https://img.shields.io/badge/90%25-green?style=flat-square&logo=typescript&logoColor=white&labelColor=007ACC) | - Jest: ![Jest](https://img.shields.io/badge/60%25-red?style=flat-square&logo=jest&logoColor=white&labelColor=C21325) |
