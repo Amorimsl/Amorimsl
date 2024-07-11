@@ -1,4 +1,5 @@
-# 🌟 Welcome to my profile!
+#<p align="center"><img width="80%" alt="Hello, I'm lucas. I do website!" src="./assets/gh-readme-header.png" /></a></p>
+
 
 Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e eficiente.
 <br/>
