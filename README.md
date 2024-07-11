@@ -5,7 +5,8 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 ## 🚀 My Skill Set
 
 <br/>
-![Exemplo de GIF](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" alt="Exemplo de GIF">
+
 
 
 
