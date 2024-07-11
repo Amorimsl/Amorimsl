@@ -11,7 +11,7 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 
 
 
-<img  width="300" src="https://camo.githubusercontent.com/fe754c47baa8b2172fc70171165d7411a770cd23098d349664ed5b2c81045b54/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67">
+<img align="rigth"  width="300" src="https://camo.githubusercontent.com/fe754c47baa8b2172fc70171165d7411a770cd23098d349664ed5b2c81045b54/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67">
 
 - ✨ Creating pages ... **2021 (my coding journey began)**
 
