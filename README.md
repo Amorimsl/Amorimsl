@@ -28,7 +28,7 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 - 📫 How to reach me **lucasamorim_10_@hotmail.com**
 
 
-
+<br clear="right">
 ## Connect with me  
 <div align="left">
 <a href="https://github.com/Amorimsl" target="_blank">
