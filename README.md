@@ -56,61 +56,36 @@ Este perfil utiliza diversas tecnologias para criar uma aplicação poderosa e e
 
 ## 📊 Níveis de Proficiência
 
-<div align="center">
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <strong>TypeScript:</strong>
-    <div style="flex: 1; background-color: #ddd; margin-left: 10px;">
-      <div style="width: 90%; background-color: #007acc; padding: 5px 0; color: white; text-align: center;">90%</div>
-    </div>
-  </div>
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <strong>React:</strong>
-    <div style="flex: 1; background-color: #ddd; margin-left: 10px;">
-      <div style="width: 85%; background-color: #61dafb; padding: 5px 0; color: black; text-align: center;">85%</div>
-    </div>
-  </div>
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <strong>TailwindCSS:</strong>
-    <div style="flex: 1; background-color: #ddd; margin-left: 10px;">
-      <div style="width: 75%; background-color: #38bdf8; padding: 5px 0; color: white; text-align: center;">75%</div>
-    </div>
-  </div>
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <strong>Node.js:</strong>
-    <div style="flex: 1; background-color: #ddd; margin-left: 10px;">
-      <div style="width: 70%; background-color: #339933; padding: 5px 0; color: white; text-align: center;">70%</div>
-    </div>
-  </div>
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <strong>Jest:</strong>
-    <div style="flex: 1; background-color: #ddd; margin-left: 10px;">
-      <div style="width: 60%; background-color: #c21325; padding: 5px 0; color: white; text-align: center;">60%</div>
-    </div>
-  </div>
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <strong>JavaScript:</strong>
-    <div style="flex: 1; background-color: #ddd; margin-left: 10px;">
-      <div style="width: 95%; background-color: #f0db4f; padding: 5px 0; color: black; text-align: center;">95%</div>
-    </div>
-  </div>
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <strong>CSS3:</strong>
-    <div style="flex: 1; background-color: #ddd; margin-left: 10px;">
-      <div style="width: 80%; background-color: #264de4; padding: 5px 0; color: white; text-align: center;">80%</div>
-    </div>
-  </div>
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <strong>HTML5:</strong>
-    <div style="flex: 1; background-color: #ddd; margin-left: 10px;">
-      <div style="width: 90%; background-color: #e34c26; padding: 5px 0; color: white; text-align: center;">90%</div>
-    </div>
-  </div>
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <strong>Oracle:</strong>
-    <div style="flex: 1; background-color: #ddd; margin-left: 10px;">
-      <div style="width: 50%; background-color: #f80000; padding: 5px 0; color: white; text-align: center;">50%</div>
-    </div>
-  </div>
-</div>
+# Meu Perfil
+
+## Habilidades em Tecnologias
+
+### TypeScript
+![TypeScript](https://img.shields.io/badge/TypeScript-90%25-green?logo=typescript&style=for-the-badge)
+
+### React
+![React](https://img.shields.io/badge/React-85%25-blue?logo=react&style=for-the-badge)
+
+### TailwindCSS
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-75%25-38B2AC?logo=tailwind-css&style=for-the-badge)
+
+### Node.js
+![Node.js](https://img.shields.io/badge/Node.js-70%25-43853D?logo=node.js&style=for-the-badge)
+
+### Jest
+![Jest](https://img.shields.io/badge/Jest-60%25-C21325?logo=jest&style=for-the-badge)
+
+### JavaScript
+![JavaScript](https://img.shields.io/badge/JavaScript-95%25-F7DF1E?logo=javascript&style=for-the-badge)
+
+### CSS3
+![CSS3](https://img.shields.io/badge/CSS3-80%25-1572B6?logo=css3&style=for-the-badge)
+
+### HTML5
+![HTML5](https://img.shields.io/badge/HTML5-90%25-E34F26?logo=html5&style=for-the-badge)
+
+### Oracle
+![Oracle](https://img.shields.io/badge/Oracle-50%25-F80000?logo=oracle&style=for-the-badge)
+
 
 
